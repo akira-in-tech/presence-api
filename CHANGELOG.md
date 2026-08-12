@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.19](https://github.com/WordPress/presence-api/compare/v0.1.18...v0.1.19) (2026-08-12)
+
+
+### Bug Fixes
+
+* preserve focus across heartbeat re-renders in Active Posts widget ([07846f7](https://github.com/WordPress/presence-api/commit/07846f747494a930211625194165c9eea64475e6))
+* preserve focus across heartbeat re-renders in dashboard widgets ([8310ba7](https://github.com/WordPress/presence-api/commit/8310ba724d1af7d99c8d8f5ca3f648cbd3959a38))
+* preserve focus across heartbeat re-renders in Who's Online widget ([45e4f13](https://github.com/WordPress/presence-api/commit/45e4f13ea83be665a8daa3f98a8e4f73bf9dcec7))
+
 ## [0.1.18](https://github.com/WordPress/presence-api/compare/v0.1.17...v0.1.18) (2026-08-11)
 
 
